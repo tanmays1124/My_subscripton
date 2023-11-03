@@ -5,7 +5,7 @@ papers=[]
 while n>0:
     k=1
     sum1=0
-    paper=input("Enter the name of paper: ")
+    papa=input("Enter the name of paper: ")
     papers.append(paper)
     while k<7:
         a=float(input(f"Enter cost for day {k+1}: "))
