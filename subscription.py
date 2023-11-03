@@ -3,7 +3,7 @@ bud=float(input("Enter the budget: "))
 cost=[]
 papers=[]
 while n>0:
-    k=0
+    k=1
     sum1=0
     paper=input("Enter the name of paper: ")
     papers.append(paper)
