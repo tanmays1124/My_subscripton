@@ -30,6 +30,4 @@
 # print(l)
 
 
-
-
 print("Subscription")
