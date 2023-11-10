@@ -11,6 +11,8 @@ class ass {
 		float f1 = 1.5f;
 		float f2 = 2.0f;
 float f3 = 32.4f;
+int f4 = 0;
+int f5 = 69;
 		// to store the multiplied value
 		float p = f1 * f2 * f3;
 
