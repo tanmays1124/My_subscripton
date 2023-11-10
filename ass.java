@@ -11,7 +11,7 @@ class ass {
 		float f1 = 1.5f;
 		float f2 = 2.0f;
 float f3 = 32.4f;
-int f4 = 0;
+int f4 = 5;
 int fnew = 12;
 int f5 = 420;
 		// to store the multiplied value
