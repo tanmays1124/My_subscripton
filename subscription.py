@@ -1,4 +1,4 @@
-n=int(input("Enter number of papers: "))
+# n=int(input("Enter number of papers: "))
 # bud=float(input("Enter the budget: "))
 # cost=[]
 # papers=[]
@@ -32,4 +32,4 @@ n=int(input("Enter number of papers: "))
 # print(l)
 
 
-print("Subscription")
+print("Subscription file")
